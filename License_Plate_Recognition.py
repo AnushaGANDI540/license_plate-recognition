@@ -4,7 +4,7 @@ import imutils
 import sys
 import pytesseract
 import pandas as pd
-import time
+
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Users\anush\Downloads\pytesseract-0.3.9-py2.py3-none-any.whl"
 
